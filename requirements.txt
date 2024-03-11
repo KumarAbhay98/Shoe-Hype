@@ -1,0 +1,15 @@
+opencv-python==4.6.0.66
+scikit-learn==1.0.2
+keras==2.9.0
+streamlit==1.12.2
+pandas==1.4.2
+tensorflow==2.9.1
+Pillow==9.2.0
+numpy==1.21.5
+pickleshare==0.7.5
+tqdm==4.64.0
+tk-tools==0.16.0
+tk==0.1.0
+bokeh==2.4.3
+MarkupSafe==2.0.1
+
